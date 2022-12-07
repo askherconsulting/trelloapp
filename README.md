@@ -1,3 +1,5 @@
+//update from Beth: Note this repo is an unfinished follow-along from the Test Automation University Course "Typescript in Cypress". The course had not been suitably quality checked (I reached out to the author to rectify) so I hope to fully complete this when the course is updated.
+
 a simple trello clone application built on vue and json-server. The point of this app is to be super easy to install and run, so that you don’t need to set up complicated database and have several scripts running in order to open app. Just install, write npm start and you are good to go.
 
 The original version of this app was built by Zack Thoutt and [you can find it here](https://github.com/zackthoutt/vue-trello). I updated the app to vue 2 and am using json-server and axios instead of local storage to handle data. I also implemented a simple JWT authentication by utilizing json-server-auth. You can also upload images to tasks, files are saved to your drive. 
